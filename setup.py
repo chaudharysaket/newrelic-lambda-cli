@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 README = open(os.path.join(os.path.dirname(__file__), "README.md"), "r").read()
 
 setup(
-    name="newrelic-lambda-cli",
+    name="newrelic-lambda-cli-test-saketc",
     version="0.9.0",
     python_requires=">=3.3",
     description="A CLI to install the New Relic AWS Lambda integration and layers.",
